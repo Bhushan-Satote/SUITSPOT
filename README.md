@@ -33,8 +33,6 @@ Welcome to the Men's Suits E-Commerce Platform repository. This project is an e-
 
 ## Snap Shots
 
-
-
 ### Homepage
 ![Homepage](snapShots/Picture2.jpg)
 
