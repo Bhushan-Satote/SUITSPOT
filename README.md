@@ -6,6 +6,7 @@ Welcome to the Men's Suits E-Commerce Platform repository. This project is an e-
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+-[SnapShots](#snap-shots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -29,6 +30,42 @@ Welcome to the Men's Suits E-Commerce Platform repository. This project is an e-
 - JavaScript
 - MySQL
 - Bootstrap (used for styling)
+
+## Snap Shots
+
+
+
+### Homepage
+![Homepage](snapShots/Picture2.jpg)
+
+### Product Details
+![Product Details](snapShots/Picture4.jpg)
+
+### Search Funcationlty
+![Search Funcationlty](snapShots/Picture7.jpg)
+
+### Login and Registration
+![Login and Registration](snapShots/Picture1.jpg)
+
+### Profile
+![Profile](snapShots/Picture9.jpg)
+
+### Shopping Cart
+![Shopping Cart](snapShots/Picture6.jpg)
+
+### wishlist
+![wishlist](snapShots/Picture5.jpg)
+
+### Order Tracking
+![Order Tracking](snapShots/Picture11.jpg)
+
+### About
+![About](snapShots/Picture8.jpg)
+
+### Admin Panel
+![Admin Panel](snapShots/Picture3.jpg)
+
+
 
 ## Installation
 
