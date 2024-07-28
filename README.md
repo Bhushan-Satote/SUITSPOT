@@ -87,4 +87,5 @@ For any questions or suggestions, feel free to reach out:
 
 - Bhushan Satote: [bhushansatote95@gmail.com](mailto:bhushansatote95@gmail.com)
 - GitHub: [https://github.com/Bhushan-Satote](https://github.com/Bhushan-Satote)
+- Linkedin: [https://www.linkedin.com/in/bhushan-satote/](https://www.linkedin.com/in/bhushan-satote/)
 
