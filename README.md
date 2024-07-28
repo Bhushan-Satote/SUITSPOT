@@ -29,7 +29,7 @@ Welcome to the Men's Suits E-Commerce Platform repository. This project is an e-
 - HTML/CSS
 - JavaScript
 - MySQL
-- Bootstrap (used for styling)
+- Bootstrap (Only used for styling)
 
 ## Snap Shots
 
