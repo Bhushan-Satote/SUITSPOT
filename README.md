@@ -80,9 +80,6 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
