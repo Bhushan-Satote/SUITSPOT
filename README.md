@@ -1,1 +1,1 @@
-# SUITSPOT![alt text](Picture2-1.jpg)
+# SuitSpot
