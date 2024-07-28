@@ -107,7 +107,7 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
     ```bash
     git checkout -b feature/your-feature-name
     ```
-3. Make your changes and commit them:
+3. Make your changes and commits them:
     ```bash
     git commit -m 'Add some feature'
     ```
